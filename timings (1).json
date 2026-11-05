@@ -1,0 +1,677 @@
+[
+  {
+    "word": "He",
+    "start": 0.0,
+    "end": 0.14
+  },
+  {
+    "word": "can't",
+    "start": 0.14,
+    "end": 0.4
+  },
+  {
+    "word": "be",
+    "start": 0.4,
+    "end": 0.46
+  },
+  {
+    "word": "touched",
+    "start": 0.46,
+    "end": 0.76
+  },
+  {
+    "word": "unless",
+    "start": 0.76,
+    "end": 1.02
+  },
+  {
+    "word": "he",
+    "start": 1.02,
+    "end": 1.2
+  },
+  {
+    "word": "allows",
+    "start": 1.2,
+    "end": 1.48
+  },
+  {
+    "word": "it.",
+    "start": 1.48,
+    "end": 1.7
+  },
+  {
+    "word": "Not",
+    "start": 1.9,
+    "end": 2.06
+  },
+  {
+    "word": "because",
+    "start": 2.06,
+    "end": 2.34
+  },
+  {
+    "word": "he's",
+    "start": 2.34,
+    "end": 2.56
+  },
+  {
+    "word": "fast,",
+    "start": 2.56,
+    "end": 2.86
+  },
+  {
+    "word": "but",
+    "start": 3.04,
+    "end": 3.14
+  },
+  {
+    "word": "because",
+    "start": 3.14,
+    "end": 3.38
+  },
+  {
+    "word": "he",
+    "start": 3.38,
+    "end": 3.5
+  },
+  {
+    "word": "creates",
+    "start": 3.5,
+    "end": 3.8
+  },
+  {
+    "word": "an",
+    "start": 3.8,
+    "end": 4.0
+  },
+  {
+    "word": "infinite",
+    "start": 4.0,
+    "end": 4.34
+  },
+  {
+    "word": "amount",
+    "start": 4.34,
+    "end": 4.64
+  },
+  {
+    "word": "of",
+    "start": 4.64,
+    "end": 4.8
+  },
+  {
+    "word": "space",
+    "start": 4.8,
+    "end": 5.08
+  },
+  {
+    "word": "in",
+    "start": 5.08,
+    "end": 5.28
+  },
+  {
+    "word": "front",
+    "start": 5.28,
+    "end": 5.48
+  },
+  {
+    "word": "of",
+    "start": 5.48,
+    "end": 5.64
+  },
+  {
+    "word": "him,",
+    "start": 5.64,
+    "end": 5.76
+  },
+  {
+    "word": "making",
+    "start": 5.9,
+    "end": 6.12
+  },
+  {
+    "word": "any",
+    "start": 6.12,
+    "end": 6.36
+  },
+  {
+    "word": "attack",
+    "start": 6.36,
+    "end": 6.64
+  },
+  {
+    "word": "appear",
+    "start": 6.64,
+    "end": 6.9
+  },
+  {
+    "word": "to",
+    "start": 6.9,
+    "end": 7.06
+  },
+  {
+    "word": "freeze",
+    "start": 7.06,
+    "end": 7.38
+  },
+  {
+    "word": "in",
+    "start": 7.38,
+    "end": 7.56
+  },
+  {
+    "word": "midair.",
+    "start": 7.56,
+    "end": 7.92
+  },
+  {
+    "word": "Anything,",
+    "start": 8.24,
+    "end": 8.5
+  },
+  {
+    "word": "and",
+    "start": 8.7,
+    "end": 8.76
+  },
+  {
+    "word": "I",
+    "start": 8.76,
+    "end": 8.84
+  },
+  {
+    "word": "mean",
+    "start": 8.84,
+    "end": 9.02
+  },
+  {
+    "word": "anything",
+    "start": 9.02,
+    "end": 9.32
+  },
+  {
+    "word": "that",
+    "start": 9.32,
+    "end": 9.6
+  },
+  {
+    "word": "approaches",
+    "start": 9.6,
+    "end": 9.92
+  },
+  {
+    "word": "him",
+    "start": 9.92,
+    "end": 10.12
+  },
+  {
+    "word": "slows",
+    "start": 10.12,
+    "end": 10.34
+  },
+  {
+    "word": "down.",
+    "start": 10.34,
+    "end": 10.68
+  },
+  {
+    "word": "Half",
+    "start": 10.86,
+    "end": 10.98
+  },
+  {
+    "word": "the",
+    "start": 10.98,
+    "end": 11.12
+  },
+  {
+    "word": "distance,",
+    "start": 11.12,
+    "end": 11.48
+  },
+  {
+    "word": "then",
+    "start": 11.6,
+    "end": 11.68
+  },
+  {
+    "word": "half",
+    "start": 11.68,
+    "end": 11.92
+  },
+  {
+    "word": "again,",
+    "start": 11.92,
+    "end": 12.18
+  },
+  {
+    "word": "forever.",
+    "start": 12.3,
+    "end": 12.54
+  },
+  {
+    "word": "It",
+    "start": 12.94,
+    "end": 13.02
+  },
+  {
+    "word": "gets",
+    "start": 13.02,
+    "end": 13.18
+  },
+  {
+    "word": "infinitely",
+    "start": 13.18,
+    "end": 13.56
+  },
+  {
+    "word": "close,",
+    "start": 13.56,
+    "end": 13.98
+  },
+  {
+    "word": "but",
+    "start": 14.24,
+    "end": 14.32
+  },
+  {
+    "word": "never",
+    "start": 14.32,
+    "end": 14.58
+  },
+  {
+    "word": "actually",
+    "start": 14.58,
+    "end": 14.9
+  },
+  {
+    "word": "touches",
+    "start": 14.9,
+    "end": 15.18
+  },
+  {
+    "word": "him.",
+    "start": 15.18,
+    "end": 15.42
+  },
+  {
+    "word": "And",
+    "start": 15.66,
+    "end": 15.78
+  },
+  {
+    "word": "there's",
+    "start": 15.78,
+    "end": 15.96
+  },
+  {
+    "word": "no",
+    "start": 15.96,
+    "end": 16.08
+  },
+  {
+    "word": "exception.",
+    "start": 16.08,
+    "end": 16.44
+  },
+  {
+    "word": "Bullets",
+    "start": 16.8,
+    "end": 17.08
+  },
+  {
+    "word": "curses",
+    "start": 17.08,
+    "end": 17.52
+  },
+  {
+    "word": "or",
+    "start": 17.52,
+    "end": 17.78
+  },
+  {
+    "word": "even",
+    "start": 17.78,
+    "end": 17.96
+  },
+  {
+    "word": "attacks",
+    "start": 17.96,
+    "end": 18.22
+  },
+  {
+    "word": "strong",
+    "start": 18.22,
+    "end": 18.56
+  },
+  {
+    "word": "enough",
+    "start": 18.56,
+    "end": 18.8
+  },
+  {
+    "word": "to",
+    "start": 18.8,
+    "end": 18.96
+  },
+  {
+    "word": "flatten",
+    "start": 18.96,
+    "end": 19.26
+  },
+  {
+    "word": "an",
+    "start": 19.26,
+    "end": 19.42
+  },
+  {
+    "word": "entire",
+    "start": 19.42,
+    "end": 19.7
+  },
+  {
+    "word": "building.",
+    "start": 19.7,
+    "end": 20.04
+  },
+  {
+    "word": "To",
+    "start": 20.22,
+    "end": 20.32
+  },
+  {
+    "word": "make",
+    "start": 20.32,
+    "end": 20.46
+  },
+  {
+    "word": "matters",
+    "start": 20.46,
+    "end": 20.7
+  },
+  {
+    "word": "worse,",
+    "start": 20.7,
+    "end": 21.0
+  },
+  {
+    "word": "he",
+    "start": 21.14,
+    "end": 21.24
+  },
+  {
+    "word": "doesn't",
+    "start": 21.24,
+    "end": 21.44
+  },
+  {
+    "word": "even",
+    "start": 21.44,
+    "end": 21.58
+  },
+  {
+    "word": "have",
+    "start": 21.58,
+    "end": 21.76
+  },
+  {
+    "word": "to",
+    "start": 21.76,
+    "end": 21.88
+  },
+  {
+    "word": "think",
+    "start": 21.88,
+    "end": 22.1
+  },
+  {
+    "word": "about",
+    "start": 22.1,
+    "end": 22.34
+  },
+  {
+    "word": "it,",
+    "start": 22.34,
+    "end": 22.52
+  },
+  {
+    "word": "because",
+    "start": 22.54,
+    "end": 22.74
+  },
+  {
+    "word": "his",
+    "start": 22.74,
+    "end": 22.9
+  },
+  {
+    "word": "sick",
+    "start": 22.9,
+    "end": 23.14
+  },
+  {
+    "word": "size",
+    "start": 23.14,
+    "end": 23.36
+  },
+  {
+    "word": "runs",
+    "start": 23.36,
+    "end": 23.64
+  },
+  {
+    "word": "on",
+    "start": 23.64,
+    "end": 23.84
+  },
+  {
+    "word": "autopilot.",
+    "start": 23.84,
+    "end": 24.3
+  },
+  {
+    "word": "However,",
+    "start": 24.56,
+    "end": 24.88
+  },
+  {
+    "word": "he",
+    "start": 25.08,
+    "end": 25.18
+  },
+  {
+    "word": "chooses",
+    "start": 25.18,
+    "end": 25.48
+  },
+  {
+    "word": "what",
+    "start": 25.48,
+    "end": 25.7
+  },
+  {
+    "word": "gets",
+    "start": 25.7,
+    "end": 25.88
+  },
+  {
+    "word": "through,",
+    "start": 25.88,
+    "end": 26.16
+  },
+  {
+    "word": "which",
+    "start": 26.34,
+    "end": 26.48
+  },
+  {
+    "word": "is",
+    "start": 26.48,
+    "end": 26.58
+  },
+  {
+    "word": "why",
+    "start": 26.58,
+    "end": 26.76
+  },
+  {
+    "word": "he",
+    "start": 26.76,
+    "end": 26.9
+  },
+  {
+    "word": "can",
+    "start": 26.9,
+    "end": 27.02
+  },
+  {
+    "word": "touch",
+    "start": 27.02,
+    "end": 27.22
+  },
+  {
+    "word": "objects,",
+    "start": 27.22,
+    "end": 27.66
+  },
+  {
+    "word": "eat,",
+    "start": 27.96,
+    "end": 28.16
+  },
+  {
+    "word": "and",
+    "start": 28.4,
+    "end": 28.46
+  },
+  {
+    "word": "snuggle",
+    "start": 28.46,
+    "end": 28.86
+  },
+  {
+    "word": "his",
+    "start": 28.86,
+    "end": 29.06
+  },
+  {
+    "word": "students.",
+    "start": 29.06,
+    "end": 29.42
+  },
+  {
+    "word": "So",
+    "start": 29.42,
+    "end": 29.78
+  },
+  {
+    "word": "how",
+    "start": 29.78,
+    "end": 29.94
+  },
+  {
+    "word": "strong",
+    "start": 29.94,
+    "end": 30.18
+  },
+  {
+    "word": "is",
+    "start": 30.18,
+    "end": 30.32
+  },
+  {
+    "word": "infinity?",
+    "start": 30.32,
+    "end": 30.64
+  },
+  {
+    "word": "Well,",
+    "start": 31.04,
+    "end": 31.16
+  },
+  {
+    "word": "it's",
+    "start": 31.28,
+    "end": 31.46
+  },
+  {
+    "word": "strong",
+    "start": 31.46,
+    "end": 31.66
+  },
+  {
+    "word": "enough",
+    "start": 31.66,
+    "end": 31.86
+  },
+  {
+    "word": "that",
+    "start": 31.86,
+    "end": 32.02
+  },
+  {
+    "word": "the",
+    "start": 32.02,
+    "end": 32.14
+  },
+  {
+    "word": "only",
+    "start": 32.14,
+    "end": 32.3
+  },
+  {
+    "word": "way",
+    "start": 32.3,
+    "end": 32.46
+  },
+  {
+    "word": "to",
+    "start": 32.46,
+    "end": 32.56
+  },
+  {
+    "word": "hurt",
+    "start": 32.56,
+    "end": 32.74
+  },
+  {
+    "word": "him",
+    "start": 32.74,
+    "end": 32.92
+  },
+  {
+    "word": "is",
+    "start": 32.92,
+    "end": 33.04
+  },
+  {
+    "word": "to",
+    "start": 33.04,
+    "end": 33.16
+  },
+  {
+    "word": "find",
+    "start": 33.16,
+    "end": 33.38
+  },
+  {
+    "word": "a",
+    "start": 33.38,
+    "end": 33.52
+  },
+  {
+    "word": "way",
+    "start": 33.52,
+    "end": 33.62
+  },
+  {
+    "word": "around",
+    "start": 33.62,
+    "end": 33.9
+  },
+  {
+    "word": "it.",
+    "start": 33.9,
+    "end": 34.06
+  }
+]
