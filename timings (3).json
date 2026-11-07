@@ -1,0 +1,717 @@
+[
+  {
+    "word": "She",
+    "start": 0.0,
+    "end": 0.22
+  },
+  {
+    "word": "eats",
+    "start": 0.22,
+    "end": 0.34
+  },
+  {
+    "word": "poison",
+    "start": 0.34,
+    "end": 0.6
+  },
+  {
+    "word": "for",
+    "start": 0.6,
+    "end": 0.9
+  },
+  {
+    "word": "fun",
+    "start": 0.9,
+    "end": 1.18
+  },
+  {
+    "word": "and",
+    "start": 1.18,
+    "end": 1.42
+  },
+  {
+    "word": "she's",
+    "start": 1.42,
+    "end": 1.66
+  },
+  {
+    "word": "still",
+    "start": 1.66,
+    "end": 1.82
+  },
+  {
+    "word": "standing.",
+    "start": 1.82,
+    "end": 2.16
+  },
+  {
+    "word": "This",
+    "start": 2.42,
+    "end": 2.56
+  },
+  {
+    "word": "is",
+    "start": 2.56,
+    "end": 2.68
+  },
+  {
+    "word": "Mao",
+    "start": 2.68,
+    "end": 2.84
+  },
+  {
+    "word": "Mao,",
+    "start": 2.84,
+    "end": 3.04
+  },
+  {
+    "word": "a",
+    "start": 3.24,
+    "end": 3.32
+  },
+  {
+    "word": "young",
+    "start": 3.32,
+    "end": 3.52
+  },
+  {
+    "word": "apothecary",
+    "start": 3.52,
+    "end": 4.1
+  },
+  {
+    "word": "who",
+    "start": 4.1,
+    "end": 4.28
+  },
+  {
+    "word": "was",
+    "start": 4.28,
+    "end": 4.42
+  },
+  {
+    "word": "sold",
+    "start": 4.42,
+    "end": 4.6
+  },
+  {
+    "word": "into",
+    "start": 4.6,
+    "end": 4.8
+  },
+  {
+    "word": "the",
+    "start": 4.8,
+    "end": 4.96
+  },
+  {
+    "word": "emperor's",
+    "start": 4.96,
+    "end": 5.34
+  },
+  {
+    "word": "rear",
+    "start": 5.34,
+    "end": 5.46
+  },
+  {
+    "word": "palace",
+    "start": 5.46,
+    "end": 5.72
+  },
+  {
+    "word": "as",
+    "start": 5.72,
+    "end": 5.94
+  },
+  {
+    "word": "a",
+    "start": 5.94,
+    "end": 6.04
+  },
+  {
+    "word": "servant.",
+    "start": 6.04,
+    "end": 6.32
+  },
+  {
+    "word": "She's",
+    "start": 6.54,
+    "end": 6.86
+  },
+  {
+    "word": "not",
+    "start": 6.86,
+    "end": 6.94
+  },
+  {
+    "word": "much",
+    "start": 6.94,
+    "end": 7.1
+  },
+  {
+    "word": "of",
+    "start": 7.1,
+    "end": 7.22
+  },
+  {
+    "word": "a",
+    "start": 7.22,
+    "end": 7.32
+  },
+  {
+    "word": "fighter,",
+    "start": 7.32,
+    "end": 7.54
+  },
+  {
+    "word": "so",
+    "start": 7.74,
+    "end": 7.84
+  },
+  {
+    "word": "she",
+    "start": 7.84,
+    "end": 7.98
+  },
+  {
+    "word": "relies",
+    "start": 7.98,
+    "end": 8.26
+  },
+  {
+    "word": "on",
+    "start": 8.26,
+    "end": 8.46
+  },
+  {
+    "word": "her",
+    "start": 8.46,
+    "end": 8.58
+  },
+  {
+    "word": "intuition",
+    "start": 8.58,
+    "end": 8.92
+  },
+  {
+    "word": "and",
+    "start": 8.92,
+    "end": 9.36
+  },
+  {
+    "word": "her",
+    "start": 9.36,
+    "end": 9.48
+  },
+  {
+    "word": "medical",
+    "start": 9.48,
+    "end": 9.8
+  },
+  {
+    "word": "knowledge.",
+    "start": 9.8,
+    "end": 10.24
+  },
+  {
+    "word": "Plus",
+    "start": 10.46,
+    "end": 10.68
+  },
+  {
+    "word": "she's",
+    "start": 10.68,
+    "end": 10.94
+  },
+  {
+    "word": "able",
+    "start": 10.94,
+    "end": 11.1
+  },
+  {
+    "word": "to",
+    "start": 11.1,
+    "end": 11.24
+  },
+  {
+    "word": "detect",
+    "start": 11.24,
+    "end": 11.48
+  },
+  {
+    "word": "specific",
+    "start": 11.48,
+    "end": 11.9
+  },
+  {
+    "word": "poisons",
+    "start": 11.9,
+    "end": 12.38
+  },
+  {
+    "word": "almost",
+    "start": 12.38,
+    "end": 12.76
+  },
+  {
+    "word": "instantly",
+    "start": 12.76,
+    "end": 13.32
+  },
+  {
+    "word": "based",
+    "start": 13.32,
+    "end": 13.58
+  },
+  {
+    "word": "on",
+    "start": 13.58,
+    "end": 13.78
+  },
+  {
+    "word": "symptoms,",
+    "start": 13.78,
+    "end": 14.08
+  },
+  {
+    "word": "smell,",
+    "start": 14.46,
+    "end": 14.68
+  },
+  {
+    "word": "and",
+    "start": 14.88,
+    "end": 14.98
+  },
+  {
+    "word": "even",
+    "start": 14.98,
+    "end": 15.12
+  },
+  {
+    "word": "stains.",
+    "start": 15.12,
+    "end": 15.4
+  },
+  {
+    "word": "She",
+    "start": 15.84,
+    "end": 16.02
+  },
+  {
+    "word": "also",
+    "start": 16.02,
+    "end": 16.24
+  },
+  {
+    "word": "uses",
+    "start": 16.24,
+    "end": 16.52
+  },
+  {
+    "word": "herself",
+    "start": 16.52,
+    "end": 16.98
+  },
+  {
+    "word": "as",
+    "start": 16.98,
+    "end": 17.2
+  },
+  {
+    "word": "a",
+    "start": 17.2,
+    "end": 17.3
+  },
+  {
+    "word": "guinea",
+    "start": 17.3,
+    "end": 17.48
+  },
+  {
+    "word": "pig",
+    "start": 17.48,
+    "end": 17.7
+  },
+  {
+    "word": "to",
+    "start": 17.7,
+    "end": 17.84
+  },
+  {
+    "word": "test",
+    "start": 17.84,
+    "end": 18.02
+  },
+  {
+    "word": "poisons,",
+    "start": 18.02,
+    "end": 18.44
+  },
+  {
+    "word": "which",
+    "start": 18.74,
+    "end": 18.88
+  },
+  {
+    "word": "has",
+    "start": 18.88,
+    "end": 19.02
+  },
+  {
+    "word": "built",
+    "start": 19.02,
+    "end": 19.24
+  },
+  {
+    "word": "up",
+    "start": 19.24,
+    "end": 19.4
+  },
+  {
+    "word": "her",
+    "start": 19.4,
+    "end": 19.54
+  },
+  {
+    "word": "tolerance",
+    "start": 19.54,
+    "end": 19.94
+  },
+  {
+    "word": "to",
+    "start": 19.94,
+    "end": 20.14
+  },
+  {
+    "word": "a",
+    "start": 20.14,
+    "end": 20.26
+  },
+  {
+    "word": "good",
+    "start": 20.26,
+    "end": 20.36
+  },
+  {
+    "word": "number",
+    "start": 20.36,
+    "end": 20.6
+  },
+  {
+    "word": "of",
+    "start": 20.6,
+    "end": 20.76
+  },
+  {
+    "word": "them.",
+    "start": 20.76,
+    "end": 20.92
+  },
+  {
+    "word": "When",
+    "start": 21.12,
+    "end": 21.26
+  },
+  {
+    "word": "babies",
+    "start": 21.26,
+    "end": 21.5
+  },
+  {
+    "word": "in",
+    "start": 21.5,
+    "end": 21.66
+  },
+  {
+    "word": "the",
+    "start": 21.66,
+    "end": 21.76
+  },
+  {
+    "word": "palace",
+    "start": 21.76,
+    "end": 21.98
+  },
+  {
+    "word": "kept",
+    "start": 21.98,
+    "end": 22.18
+  },
+  {
+    "word": "getting",
+    "start": 22.18,
+    "end": 22.42
+  },
+  {
+    "word": "sick,",
+    "start": 22.42,
+    "end": 22.76
+  },
+  {
+    "word": "nobody",
+    "start": 23.04,
+    "end": 23.22
+  },
+  {
+    "word": "could",
+    "start": 23.22,
+    "end": 23.44
+  },
+  {
+    "word": "explain",
+    "start": 23.44,
+    "end": 23.78
+  },
+  {
+    "word": "why.",
+    "start": 23.78,
+    "end": 24.04
+  },
+  {
+    "word": "Mao",
+    "start": 24.36,
+    "end": 24.52
+  },
+  {
+    "word": "Mao",
+    "start": 24.52,
+    "end": 24.72
+  },
+  {
+    "word": "solved",
+    "start": 24.72,
+    "end": 24.96
+  },
+  {
+    "word": "the",
+    "start": 24.96,
+    "end": 25.16
+  },
+  {
+    "word": "case",
+    "start": 25.16,
+    "end": 25.34
+  },
+  {
+    "word": "with",
+    "start": 25.34,
+    "end": 25.56
+  },
+  {
+    "word": "ease,",
+    "start": 25.56,
+    "end": 25.7
+  },
+  {
+    "word": "which",
+    "start": 25.92,
+    "end": 26.06
+  },
+  {
+    "word": "flabbergasted",
+    "start": 26.06,
+    "end": 26.64
+  },
+  {
+    "word": "everyone.",
+    "start": 26.64,
+    "end": 26.98
+  },
+  {
+    "word": "And",
+    "start": 27.34,
+    "end": 27.52
+  },
+  {
+    "word": "that's",
+    "start": 27.52,
+    "end": 27.82
+  },
+  {
+    "word": "how",
+    "start": 27.82,
+    "end": 27.94
+  },
+  {
+    "word": "she",
+    "start": 27.94,
+    "end": 28.12
+  },
+  {
+    "word": "later",
+    "start": 28.12,
+    "end": 28.36
+  },
+  {
+    "word": "got",
+    "start": 28.36,
+    "end": 28.56
+  },
+  {
+    "word": "noticed",
+    "start": 28.56,
+    "end": 28.9
+  },
+  {
+    "word": "by",
+    "start": 28.9,
+    "end": 29.1
+  },
+  {
+    "word": "Jinxi,",
+    "start": 29.1,
+    "end": 29.5
+  },
+  {
+    "word": "who",
+    "start": 29.5,
+    "end": 29.74
+  },
+  {
+    "word": "keeps",
+    "start": 29.74,
+    "end": 29.96
+  },
+  {
+    "word": "seeking",
+    "start": 29.96,
+    "end": 30.26
+  },
+  {
+    "word": "her",
+    "start": 30.26,
+    "end": 30.48
+  },
+  {
+    "word": "assistance",
+    "start": 30.48,
+    "end": 30.84
+  },
+  {
+    "word": "with",
+    "start": 30.84,
+    "end": 31.12
+  },
+  {
+    "word": "more",
+    "start": 31.12,
+    "end": 31.34
+  },
+  {
+    "word": "cases.",
+    "start": 31.34,
+    "end": 31.7
+  },
+  {
+    "word": "So",
+    "start": 32.1,
+    "end": 32.24
+  },
+  {
+    "word": "is",
+    "start": 32.24,
+    "end": 32.38
+  },
+  {
+    "word": "the",
+    "start": 32.38,
+    "end": 32.5
+  },
+  {
+    "word": "apothecary",
+    "start": 32.5,
+    "end": 33.02
+  },
+  {
+    "word": "diaries",
+    "start": 33.02,
+    "end": 33.38
+  },
+  {
+    "word": "worth",
+    "start": 33.38,
+    "end": 33.58
+  },
+  {
+    "word": "watching?",
+    "start": 33.58,
+    "end": 33.94
+  },
+  {
+    "word": "It's",
+    "start": 34.18,
+    "end": 34.3
+  },
+  {
+    "word": "entertaining",
+    "start": 34.3,
+    "end": 34.66
+  },
+  {
+    "word": "enough",
+    "start": 34.66,
+    "end": 34.98
+  },
+  {
+    "word": "that",
+    "start": 34.98,
+    "end": 35.18
+  },
+  {
+    "word": "this",
+    "start": 35.18,
+    "end": 35.34
+  },
+  {
+    "word": "video",
+    "start": 35.34,
+    "end": 35.62
+  },
+  {
+    "word": "kept",
+    "start": 35.62,
+    "end": 35.8
+  },
+  {
+    "word": "you",
+    "start": 35.8,
+    "end": 35.98
+  },
+  {
+    "word": "hooked",
+    "start": 35.98,
+    "end": 36.16
+  },
+  {
+    "word": "all",
+    "start": 36.16,
+    "end": 36.5
+  },
+  {
+    "word": "the",
+    "start": 36.5,
+    "end": 36.66
+  },
+  {
+    "word": "way",
+    "start": 36.66,
+    "end": 36.8
+  },
+  {
+    "word": "to",
+    "start": 36.8,
+    "end": 36.94
+  },
+  {
+    "word": "the",
+    "start": 36.94,
+    "end": 37.06
+  },
+  {
+    "word": "end.",
+    "start": 37.06,
+    "end": 37.26
+  }
+]
