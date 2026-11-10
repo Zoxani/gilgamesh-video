@@ -1,0 +1,422 @@
+[
+  {
+    "word": "One",
+    "start": 0.0,
+    "end": 0.14
+  },
+  {
+    "word": "hollow",
+    "start": 0.14,
+    "end": 0.34
+  },
+  {
+    "word": "purple",
+    "start": 0.34,
+    "end": 0.66
+  },
+  {
+    "word": "can",
+    "start": 0.66,
+    "end": 0.94
+  },
+  {
+    "word": "erase",
+    "start": 0.94,
+    "end": 1.28
+  },
+  {
+    "word": "an",
+    "start": 1.28,
+    "end": 1.7
+  },
+  {
+    "word": "entire",
+    "start": 1.7,
+    "end": 2.1
+  },
+  {
+    "word": "street.",
+    "start": 2.1,
+    "end": 2.48
+  },
+  {
+    "word": "So",
+    "start": 2.72,
+    "end": 2.76
+  },
+  {
+    "word": "what",
+    "start": 2.76,
+    "end": 2.92
+  },
+  {
+    "word": "happens",
+    "start": 2.92,
+    "end": 3.22
+  },
+  {
+    "word": "if",
+    "start": 3.22,
+    "end": 3.38
+  },
+  {
+    "word": "Gojo",
+    "start": 3.38,
+    "end": 3.66
+  },
+  {
+    "word": "fires",
+    "start": 3.66,
+    "end": 3.92
+  },
+  {
+    "word": "one",
+    "start": 3.92,
+    "end": 4.18
+  },
+  {
+    "word": "at",
+    "start": 4.18,
+    "end": 4.3
+  },
+  {
+    "word": "a",
+    "start": 4.3,
+    "end": 4.4
+  },
+  {
+    "word": "real",
+    "start": 4.4,
+    "end": 4.56
+  },
+  {
+    "word": "city?",
+    "start": 4.56,
+    "end": 4.8
+  },
+  {
+    "word": "He",
+    "start": 5.0,
+    "end": 5.06
+  },
+  {
+    "word": "makes",
+    "start": 5.06,
+    "end": 5.24
+  },
+  {
+    "word": "it",
+    "start": 5.24,
+    "end": 5.38
+  },
+  {
+    "word": "by",
+    "start": 5.38,
+    "end": 5.5
+  },
+  {
+    "word": "smashing",
+    "start": 5.5,
+    "end": 5.84
+  },
+  {
+    "word": "together",
+    "start": 5.84,
+    "end": 6.2
+  },
+  {
+    "word": "red",
+    "start": 6.2,
+    "end": 6.64
+  },
+  {
+    "word": "and",
+    "start": 6.64,
+    "end": 6.78
+  },
+  {
+    "word": "blue,",
+    "start": 6.78,
+    "end": 7.04
+  },
+  {
+    "word": "two",
+    "start": 7.24,
+    "end": 7.4
+  },
+  {
+    "word": "opposite",
+    "start": 7.4,
+    "end": 7.72
+  },
+  {
+    "word": "forces,",
+    "start": 7.72,
+    "end": 8.14
+  },
+  {
+    "word": "one",
+    "start": 8.4,
+    "end": 8.5
+  },
+  {
+    "word": "that",
+    "start": 8.5,
+    "end": 8.66
+  },
+  {
+    "word": "pushes",
+    "start": 8.66,
+    "end": 8.94
+  },
+  {
+    "word": "and",
+    "start": 8.94,
+    "end": 9.28
+  },
+  {
+    "word": "one",
+    "start": 9.28,
+    "end": 9.44
+  },
+  {
+    "word": "that",
+    "start": 9.44,
+    "end": 9.6
+  },
+  {
+    "word": "pulls.",
+    "start": 9.6,
+    "end": 9.8
+  },
+  {
+    "word": "The",
+    "start": 10.0,
+    "end": 10.06
+  },
+  {
+    "word": "result",
+    "start": 10.06,
+    "end": 10.3
+  },
+  {
+    "word": "is",
+    "start": 10.3,
+    "end": 10.48
+  },
+  {
+    "word": "imaginary",
+    "start": 10.48,
+    "end": 10.88
+  },
+  {
+    "word": "mass,",
+    "start": 10.88,
+    "end": 11.22
+  },
+  {
+    "word": "and",
+    "start": 11.4,
+    "end": 11.48
+  },
+  {
+    "word": "it",
+    "start": 11.48,
+    "end": 11.6
+  },
+  {
+    "word": "doesn't",
+    "start": 11.6,
+    "end": 11.84
+  },
+  {
+    "word": "just",
+    "start": 11.84,
+    "end": 11.96
+  },
+  {
+    "word": "break",
+    "start": 11.96,
+    "end": 12.24
+  },
+  {
+    "word": "whatever",
+    "start": 12.24,
+    "end": 12.68
+  },
+  {
+    "word": "it",
+    "start": 12.68,
+    "end": 12.9
+  },
+  {
+    "word": "hits,",
+    "start": 12.9,
+    "end": 13.1
+  },
+  {
+    "word": "it",
+    "start": 13.3,
+    "end": 13.38
+  },
+  {
+    "word": "erases",
+    "start": 13.38,
+    "end": 13.74
+  },
+  {
+    "word": "it.",
+    "start": 13.74,
+    "end": 13.96
+  },
+  {
+    "word": "Buildings,",
+    "start": 14.28,
+    "end": 14.72
+  },
+  {
+    "word": "roads,",
+    "start": 14.94,
+    "end": 15.24
+  },
+  {
+    "word": "even",
+    "start": 15.62,
+    "end": 15.8
+  },
+  {
+    "word": "the",
+    "start": 15.8,
+    "end": 15.96
+  },
+  {
+    "word": "ground",
+    "start": 15.96,
+    "end": 16.16
+  },
+  {
+    "word": "beneath",
+    "start": 16.16,
+    "end": 16.44
+  },
+  {
+    "word": "them",
+    "start": 16.44,
+    "end": 16.76
+  },
+  {
+    "word": "gone",
+    "start": 16.76,
+    "end": 17.08
+  },
+  {
+    "word": "in",
+    "start": 17.08,
+    "end": 17.26
+  },
+  {
+    "word": "an",
+    "start": 17.26,
+    "end": 17.38
+  },
+  {
+    "word": "instant",
+    "start": 17.38,
+    "end": 17.72
+  },
+  {
+    "word": "along",
+    "start": 17.72,
+    "end": 18.0
+  },
+  {
+    "word": "a",
+    "start": 18.0,
+    "end": 18.18
+  },
+  {
+    "word": "perfectly",
+    "start": 18.18,
+    "end": 18.58
+  },
+  {
+    "word": "straight",
+    "start": 18.58,
+    "end": 18.9
+  },
+  {
+    "word": "line.",
+    "start": 18.9,
+    "end": 19.2
+  },
+  {
+    "word": "So",
+    "start": 19.4,
+    "end": 19.46
+  },
+  {
+    "word": "how",
+    "start": 19.46,
+    "end": 19.62
+  },
+  {
+    "word": "strong",
+    "start": 19.62,
+    "end": 19.86
+  },
+  {
+    "word": "is",
+    "start": 19.86,
+    "end": 20.0
+  },
+  {
+    "word": "hollow",
+    "start": 20.0,
+    "end": 20.18
+  },
+  {
+    "word": "purple?",
+    "start": 20.18,
+    "end": 20.52
+  },
+  {
+    "word": "Strong",
+    "start": 20.8,
+    "end": 20.94
+  },
+  {
+    "word": "enough",
+    "start": 20.94,
+    "end": 21.18
+  },
+  {
+    "word": "that",
+    "start": 21.18,
+    "end": 21.34
+  },
+  {
+    "word": "whatever",
+    "start": 21.34,
+    "end": 21.56
+  },
+  {
+    "word": "it",
+    "start": 21.56,
+    "end": 21.76
+  },
+  {
+    "word": "touches",
+    "start": 21.76,
+    "end": 22.02
+  },
+  {
+    "word": "stops",
+    "start": 22.02,
+    "end": 22.34
+  },
+  {
+    "word": "existing.",
+    "start": 22.34,
+    "end": 22.78
+  }
+]
