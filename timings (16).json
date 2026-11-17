@@ -1,0 +1,402 @@
+[
+  {
+    "word": "In",
+    "start": 0.0,
+    "end": 0.14
+  },
+  {
+    "word": "the",
+    "start": 0.14,
+    "end": 0.24
+  },
+  {
+    "word": "future,",
+    "start": 0.24,
+    "end": 0.54
+  },
+  {
+    "word": "your",
+    "start": 0.74,
+    "end": 0.82
+  },
+  {
+    "word": "memories",
+    "start": 0.82,
+    "end": 1.1
+  },
+  {
+    "word": "can",
+    "start": 1.1,
+    "end": 1.32
+  },
+  {
+    "word": "be",
+    "start": 1.32,
+    "end": 1.44
+  },
+  {
+    "word": "saved",
+    "start": 1.44,
+    "end": 1.74
+  },
+  {
+    "word": "on",
+    "start": 1.74,
+    "end": 1.9
+  },
+  {
+    "word": "data",
+    "start": 1.9,
+    "end": 2.12
+  },
+  {
+    "word": "chips",
+    "start": 2.12,
+    "end": 2.46
+  },
+  {
+    "word": "and",
+    "start": 2.46,
+    "end": 2.7
+  },
+  {
+    "word": "move",
+    "start": 2.7,
+    "end": 2.9
+  },
+  {
+    "word": "between",
+    "start": 2.9,
+    "end": 3.18
+  },
+  {
+    "word": "bodies,",
+    "start": 3.18,
+    "end": 3.54
+  },
+  {
+    "word": "allowing",
+    "start": 3.78,
+    "end": 4.02
+  },
+  {
+    "word": "the",
+    "start": 4.02,
+    "end": 4.22
+  },
+  {
+    "word": "rich",
+    "start": 4.22,
+    "end": 4.42
+  },
+  {
+    "word": "to",
+    "start": 4.42,
+    "end": 4.62
+  },
+  {
+    "word": "live",
+    "start": 4.62,
+    "end": 4.76
+  },
+  {
+    "word": "forever",
+    "start": 4.76,
+    "end": 5.18
+  },
+  {
+    "word": "while",
+    "start": 5.18,
+    "end": 5.44
+  },
+  {
+    "word": "the",
+    "start": 5.44,
+    "end": 5.6
+  },
+  {
+    "word": "poor",
+    "start": 5.6,
+    "end": 5.9
+  },
+  {
+    "word": "sell",
+    "start": 5.9,
+    "end": 6.26
+  },
+  {
+    "word": "theirs",
+    "start": 6.26,
+    "end": 6.56
+  },
+  {
+    "word": "just",
+    "start": 6.56,
+    "end": 6.86
+  },
+  {
+    "word": "to",
+    "start": 6.86,
+    "end": 7.02
+  },
+  {
+    "word": "eat.",
+    "start": 7.02,
+    "end": 7.2
+  },
+  {
+    "word": "A",
+    "start": 7.38,
+    "end": 7.46
+  },
+  {
+    "word": "boy",
+    "start": 7.46,
+    "end": 7.62
+  },
+  {
+    "word": "wakes",
+    "start": 7.62,
+    "end": 7.86
+  },
+  {
+    "word": "up",
+    "start": 7.86,
+    "end": 8.0
+  },
+  {
+    "word": "with",
+    "start": 8.0,
+    "end": 8.14
+  },
+  {
+    "word": "no",
+    "start": 8.14,
+    "end": 8.28
+  },
+  {
+    "word": "memories,",
+    "start": 8.28,
+    "end": 8.64
+  },
+  {
+    "word": "a",
+    "start": 8.88,
+    "end": 8.94
+  },
+  {
+    "word": "hole",
+    "start": 8.94,
+    "end": 9.2
+  },
+  {
+    "word": "in",
+    "start": 9.2,
+    "end": 9.34
+  },
+  {
+    "word": "his",
+    "start": 9.34,
+    "end": 9.44
+  },
+  {
+    "word": "chest,",
+    "start": 9.44,
+    "end": 9.74
+  },
+  {
+    "word": "and",
+    "start": 9.94,
+    "end": 10.0
+  },
+  {
+    "word": "a",
+    "start": 10.0,
+    "end": 10.1
+  },
+  {
+    "word": "locket",
+    "start": 10.1,
+    "end": 10.42
+  },
+  {
+    "word": "with",
+    "start": 10.42,
+    "end": 10.56
+  },
+  {
+    "word": "a",
+    "start": 10.56,
+    "end": 10.66
+  },
+  {
+    "word": "girl's",
+    "start": 10.66,
+    "end": 10.92
+  },
+  {
+    "word": "face.",
+    "start": 10.92,
+    "end": 11.12
+  },
+  {
+    "word": "He",
+    "start": 11.36,
+    "end": 11.46
+  },
+  {
+    "word": "travels",
+    "start": 11.46,
+    "end": 11.76
+  },
+  {
+    "word": "from",
+    "start": 11.76,
+    "end": 11.96
+  },
+  {
+    "word": "planet",
+    "start": 11.96,
+    "end": 12.24
+  },
+  {
+    "word": "to",
+    "start": 12.24,
+    "end": 12.42
+  },
+  {
+    "word": "planet",
+    "start": 12.42,
+    "end": 12.68
+  },
+  {
+    "word": "in",
+    "start": 12.68,
+    "end": 12.88
+  },
+  {
+    "word": "order",
+    "start": 12.88,
+    "end": 13.02
+  },
+  {
+    "word": "to",
+    "start": 13.02,
+    "end": 13.16
+  },
+  {
+    "word": "find",
+    "start": 13.16,
+    "end": 13.4
+  },
+  {
+    "word": "out",
+    "start": 13.4,
+    "end": 13.56
+  },
+  {
+    "word": "who",
+    "start": 13.56,
+    "end": 13.74
+  },
+  {
+    "word": "he",
+    "start": 13.74,
+    "end": 13.84
+  },
+  {
+    "word": "was,",
+    "start": 13.84,
+    "end": 14.08
+  },
+  {
+    "word": "but",
+    "start": 14.24,
+    "end": 14.34
+  },
+  {
+    "word": "in",
+    "start": 14.34,
+    "end": 14.46
+  },
+  {
+    "word": "doing",
+    "start": 14.46,
+    "end": 14.64
+  },
+  {
+    "word": "so,",
+    "start": 14.64,
+    "end": 14.94
+  },
+  {
+    "word": "he",
+    "start": 15.14,
+    "end": 15.24
+  },
+  {
+    "word": "ends",
+    "start": 15.24,
+    "end": 15.4
+  },
+  {
+    "word": "up",
+    "start": 15.4,
+    "end": 15.54
+  },
+  {
+    "word": "finding",
+    "start": 15.54,
+    "end": 15.82
+  },
+  {
+    "word": "something",
+    "start": 15.82,
+    "end": 16.24
+  },
+  {
+    "word": "much",
+    "start": 16.24,
+    "end": 16.54
+  },
+  {
+    "word": "worse.",
+    "start": 16.54,
+    "end": 16.86
+  },
+  {
+    "word": "Bodies",
+    "start": 17.16,
+    "end": 17.42
+  },
+  {
+    "word": "are",
+    "start": 17.42,
+    "end": 17.56
+  },
+  {
+    "word": "just",
+    "start": 17.56,
+    "end": 17.7
+  },
+  {
+    "word": "tools",
+    "start": 17.7,
+    "end": 18.02
+  },
+  {
+    "word": "anyone",
+    "start": 18.02,
+    "end": 18.38
+  },
+  {
+    "word": "can",
+    "start": 18.38,
+    "end": 18.72
+  },
+  {
+    "word": "buy.",
+    "start": 18.72,
+    "end": 18.92
+  }
+]
