@@ -1,0 +1,1982 @@
+[
+  {
+    "word": "A",
+    "start": 0.0,
+    "end": 0.14
+  },
+  {
+    "word": "day",
+    "start": 0.14,
+    "end": 0.28
+  },
+  {
+    "word": "from",
+    "start": 0.28,
+    "end": 0.44
+  },
+  {
+    "word": "now",
+    "start": 0.44,
+    "end": 0.62
+  },
+  {
+    "word": "GTA",
+    "start": 0.62,
+    "end": 0.86
+  },
+  {
+    "word": "6",
+    "start": 0.86,
+    "end": 1.24
+  },
+  {
+    "word": "goes",
+    "start": 1.24,
+    "end": 1.44
+  },
+  {
+    "word": "live",
+    "start": 1.44,
+    "end": 1.74
+  },
+  {
+    "word": "so",
+    "start": 1.74,
+    "end": 1.96
+  },
+  {
+    "word": "the",
+    "start": 1.96,
+    "end": 2.08
+  },
+  {
+    "word": "wait",
+    "start": 2.08,
+    "end": 2.22
+  },
+  {
+    "word": "is",
+    "start": 2.22,
+    "end": 2.34
+  },
+  {
+    "word": "almost",
+    "start": 2.34,
+    "end": 2.52
+  },
+  {
+    "word": "over,",
+    "start": 2.52,
+    "end": 2.86
+  },
+  {
+    "word": "but",
+    "start": 2.96,
+    "end": 3.16
+  },
+  {
+    "word": "what",
+    "start": 3.16,
+    "end": 3.28
+  },
+  {
+    "word": "actually",
+    "start": 3.28,
+    "end": 3.54
+  },
+  {
+    "word": "happens",
+    "start": 3.54,
+    "end": 3.98
+  },
+  {
+    "word": "when",
+    "start": 3.98,
+    "end": 4.18
+  },
+  {
+    "word": "it",
+    "start": 4.18,
+    "end": 4.28
+  },
+  {
+    "word": "eventually",
+    "start": 4.28,
+    "end": 4.58
+  },
+  {
+    "word": "drops?",
+    "start": 4.58,
+    "end": 4.96
+  },
+  {
+    "word": "To",
+    "start": 5.22,
+    "end": 5.3
+  },
+  {
+    "word": "be",
+    "start": 5.3,
+    "end": 5.4
+  },
+  {
+    "word": "completely",
+    "start": 5.4,
+    "end": 5.66
+  },
+  {
+    "word": "honest,",
+    "start": 5.66,
+    "end": 6.0
+  },
+  {
+    "word": "I've",
+    "start": 6.22,
+    "end": 6.34
+  },
+  {
+    "word": "been",
+    "start": 6.34,
+    "end": 6.44
+  },
+  {
+    "word": "waiting",
+    "start": 6.44,
+    "end": 6.62
+  },
+  {
+    "word": "for",
+    "start": 6.62,
+    "end": 6.8
+  },
+  {
+    "word": "this",
+    "start": 6.8,
+    "end": 6.94
+  },
+  {
+    "word": "longer",
+    "start": 6.94,
+    "end": 7.18
+  },
+  {
+    "word": "than",
+    "start": 7.18,
+    "end": 7.34
+  },
+  {
+    "word": "I've",
+    "start": 7.34,
+    "end": 7.5
+  },
+  {
+    "word": "been",
+    "start": 7.5,
+    "end": 7.58
+  },
+  {
+    "word": "waiting",
+    "start": 7.58,
+    "end": 7.78
+  },
+  {
+    "word": "for",
+    "start": 7.78,
+    "end": 7.96
+  },
+  {
+    "word": "a",
+    "start": 7.96,
+    "end": 8.06
+  },
+  {
+    "word": "season",
+    "start": 8.06,
+    "end": 8.24
+  },
+  {
+    "word": "2",
+    "start": 8.24,
+    "end": 8.52
+  },
+  {
+    "word": "for",
+    "start": 8.52,
+    "end": 8.68
+  },
+  {
+    "word": "the",
+    "start": 8.68,
+    "end": 8.8
+  },
+  {
+    "word": "anime,",
+    "start": 8.8,
+    "end": 9.1
+  },
+  {
+    "word": "no",
+    "start": 9.38,
+    "end": 9.56
+  },
+  {
+    "word": "game,",
+    "start": 9.56,
+    "end": 9.82
+  },
+  {
+    "word": "no",
+    "start": 10.16,
+    "end": 10.32
+  },
+  {
+    "word": "life.",
+    "start": 10.32,
+    "end": 10.64
+  },
+  {
+    "word": "And",
+    "start": 10.82,
+    "end": 10.92
+  },
+  {
+    "word": "I'm",
+    "start": 10.92,
+    "end": 11.02
+  },
+  {
+    "word": "certain",
+    "start": 11.02,
+    "end": 11.24
+  },
+  {
+    "word": "I'm",
+    "start": 11.24,
+    "end": 11.4
+  },
+  {
+    "word": "not",
+    "start": 11.4,
+    "end": 11.52
+  },
+  {
+    "word": "the",
+    "start": 11.52,
+    "end": 11.64
+  },
+  {
+    "word": "only",
+    "start": 11.64,
+    "end": 11.82
+  },
+  {
+    "word": "one.",
+    "start": 11.82,
+    "end": 12.06
+  },
+  {
+    "word": "As",
+    "start": 12.24,
+    "end": 12.4
+  },
+  {
+    "word": "you",
+    "start": 12.4,
+    "end": 12.52
+  },
+  {
+    "word": "may",
+    "start": 12.52,
+    "end": 12.6
+  },
+  {
+    "word": "already",
+    "start": 12.6,
+    "end": 12.82
+  },
+  {
+    "word": "know,",
+    "start": 12.82,
+    "end": 13.08
+  },
+  {
+    "word": "this",
+    "start": 13.3,
+    "end": 13.38
+  },
+  {
+    "word": "game",
+    "start": 13.38,
+    "end": 13.56
+  },
+  {
+    "word": "was",
+    "start": 13.56,
+    "end": 13.68
+  },
+  {
+    "word": "announced",
+    "start": 13.68,
+    "end": 14.0
+  },
+  {
+    "word": "for",
+    "start": 14.0,
+    "end": 14.24
+  },
+  {
+    "word": "2025,",
+    "start": 14.24,
+    "end": 14.8
+  },
+  {
+    "word": "then",
+    "start": 15.32,
+    "end": 15.46
+  },
+  {
+    "word": "it",
+    "start": 15.46,
+    "end": 15.56
+  },
+  {
+    "word": "got",
+    "start": 15.56,
+    "end": 15.66
+  },
+  {
+    "word": "pushed",
+    "start": 15.66,
+    "end": 15.88
+  },
+  {
+    "word": "to",
+    "start": 15.88,
+    "end": 16.12
+  },
+  {
+    "word": "May",
+    "start": 16.12,
+    "end": 16.32
+  },
+  {
+    "word": "26,",
+    "start": 16.32,
+    "end": 16.84
+  },
+  {
+    "word": "2026,",
+    "start": 17.02,
+    "end": 17.7
+  },
+  {
+    "word": "then",
+    "start": 17.98,
+    "end": 18.1
+  },
+  {
+    "word": "slipped",
+    "start": 18.1,
+    "end": 18.36
+  },
+  {
+    "word": "again",
+    "start": 18.36,
+    "end": 18.64
+  },
+  {
+    "word": "to",
+    "start": 18.64,
+    "end": 18.78
+  },
+  {
+    "word": "November",
+    "start": 18.78,
+    "end": 19.02
+  },
+  {
+    "word": "19th.",
+    "start": 19.02,
+    "end": 19.82
+  },
+  {
+    "word": "After",
+    "start": 19.84,
+    "end": 20.06
+  },
+  {
+    "word": "two",
+    "start": 20.06,
+    "end": 20.28
+  },
+  {
+    "word": "delays",
+    "start": 20.28,
+    "end": 20.58
+  },
+  {
+    "word": "and",
+    "start": 20.58,
+    "end": 20.86
+  },
+  {
+    "word": "over",
+    "start": 20.86,
+    "end": 21.06
+  },
+  {
+    "word": "a",
+    "start": 21.06,
+    "end": 21.2
+  },
+  {
+    "word": "decade",
+    "start": 21.2,
+    "end": 21.46
+  },
+  {
+    "word": "since",
+    "start": 21.46,
+    "end": 21.74
+  },
+  {
+    "word": "GTA",
+    "start": 21.74,
+    "end": 22.16
+  },
+  {
+    "word": "5,",
+    "start": 22.16,
+    "end": 22.66
+  },
+  {
+    "word": "demand",
+    "start": 22.8,
+    "end": 22.96
+  },
+  {
+    "word": "has",
+    "start": 22.96,
+    "end": 23.22
+  },
+  {
+    "word": "been",
+    "start": 23.22,
+    "end": 23.36
+  },
+  {
+    "word": "building",
+    "start": 23.36,
+    "end": 23.6
+  },
+  {
+    "word": "for",
+    "start": 23.6,
+    "end": 23.86
+  },
+  {
+    "word": "a",
+    "start": 23.86,
+    "end": 23.98
+  },
+  {
+    "word": "very",
+    "start": 23.98,
+    "end": 24.38
+  },
+  {
+    "word": "long",
+    "start": 24.38,
+    "end": 24.62
+  },
+  {
+    "word": "time.",
+    "start": 24.62,
+    "end": 24.92
+  },
+  {
+    "word": "Every",
+    "start": 25.18,
+    "end": 25.4
+  },
+  {
+    "word": "delay",
+    "start": 25.4,
+    "end": 25.6
+  },
+  {
+    "word": "stung,",
+    "start": 25.6,
+    "end": 25.92
+  },
+  {
+    "word": "especially",
+    "start": 26.06,
+    "end": 26.32
+  },
+  {
+    "word": "since",
+    "start": 26.32,
+    "end": 26.6
+  },
+  {
+    "word": "there",
+    "start": 26.6,
+    "end": 26.78
+  },
+  {
+    "word": "are",
+    "start": 26.78,
+    "end": 26.86
+  },
+  {
+    "word": "hardly",
+    "start": 26.86,
+    "end": 27.1
+  },
+  {
+    "word": "any",
+    "start": 27.1,
+    "end": 27.36
+  },
+  {
+    "word": "games",
+    "start": 27.36,
+    "end": 27.66
+  },
+  {
+    "word": "that",
+    "start": 27.66,
+    "end": 27.8
+  },
+  {
+    "word": "keep",
+    "start": 27.8,
+    "end": 27.96
+  },
+  {
+    "word": "me",
+    "start": 27.96,
+    "end": 28.08
+  },
+  {
+    "word": "hooked.",
+    "start": 28.08,
+    "end": 28.32
+  },
+  {
+    "word": "Nonetheless,",
+    "start": 28.32,
+    "end": 28.82
+  },
+  {
+    "word": "I",
+    "start": 29.08,
+    "end": 29.16
+  },
+  {
+    "word": "practically",
+    "start": 29.16,
+    "end": 29.46
+  },
+  {
+    "word": "got",
+    "start": 29.46,
+    "end": 29.68
+  },
+  {
+    "word": "used",
+    "start": 29.68,
+    "end": 29.86
+  },
+  {
+    "word": "to",
+    "start": 29.86,
+    "end": 30.0
+  },
+  {
+    "word": "the",
+    "start": 30.0,
+    "end": 30.1
+  },
+  {
+    "word": "optimistic",
+    "start": 30.1,
+    "end": 30.46
+  },
+  {
+    "word": "pills",
+    "start": 30.46,
+    "end": 30.84
+  },
+  {
+    "word": "Rockstar",
+    "start": 30.84,
+    "end": 31.26
+  },
+  {
+    "word": "has",
+    "start": 31.26,
+    "end": 31.4
+  },
+  {
+    "word": "been",
+    "start": 31.4,
+    "end": 31.54
+  },
+  {
+    "word": "giving",
+    "start": 31.54,
+    "end": 31.72
+  },
+  {
+    "word": "us.",
+    "start": 31.72,
+    "end": 31.96
+  },
+  {
+    "word": "It",
+    "start": 32.08,
+    "end": 32.18
+  },
+  {
+    "word": "got",
+    "start": 32.18,
+    "end": 32.3
+  },
+  {
+    "word": "to",
+    "start": 32.3,
+    "end": 32.42
+  },
+  {
+    "word": "a",
+    "start": 32.42,
+    "end": 32.52
+  },
+  {
+    "word": "point",
+    "start": 32.52,
+    "end": 32.7
+  },
+  {
+    "word": "where",
+    "start": 32.7,
+    "end": 32.84
+  },
+  {
+    "word": "I",
+    "start": 32.84,
+    "end": 32.92
+  },
+  {
+    "word": "just",
+    "start": 32.92,
+    "end": 33.08
+  },
+  {
+    "word": "stopped",
+    "start": 33.08,
+    "end": 33.34
+  },
+  {
+    "word": "asking",
+    "start": 33.34,
+    "end": 33.62
+  },
+  {
+    "word": "when",
+    "start": 33.62,
+    "end": 33.88
+  },
+  {
+    "word": "and",
+    "start": 33.88,
+    "end": 34.12
+  },
+  {
+    "word": "just",
+    "start": 34.12,
+    "end": 34.3
+  },
+  {
+    "word": "hoped",
+    "start": 34.3,
+    "end": 34.54
+  },
+  {
+    "word": "it",
+    "start": 34.54,
+    "end": 34.66
+  },
+  {
+    "word": "would",
+    "start": 34.66,
+    "end": 34.76
+  },
+  {
+    "word": "be",
+    "start": 34.76,
+    "end": 34.9
+  },
+  {
+    "word": "released.",
+    "start": 34.9,
+    "end": 35.2
+  },
+  {
+    "word": "Let",
+    "start": 35.58,
+    "end": 35.74
+  },
+  {
+    "word": "me",
+    "start": 35.74,
+    "end": 35.84
+  },
+  {
+    "word": "help",
+    "start": 35.84,
+    "end": 35.98
+  },
+  {
+    "word": "you",
+    "start": 35.98,
+    "end": 36.08
+  },
+  {
+    "word": "understand",
+    "start": 36.08,
+    "end": 36.44
+  },
+  {
+    "word": "how",
+    "start": 36.44,
+    "end": 36.68
+  },
+  {
+    "word": "hyped",
+    "start": 36.68,
+    "end": 36.94
+  },
+  {
+    "word": "this",
+    "start": 36.94,
+    "end": 37.12
+  },
+  {
+    "word": "game",
+    "start": 37.12,
+    "end": 37.3
+  },
+  {
+    "word": "is.",
+    "start": 37.3,
+    "end": 37.54
+  },
+  {
+    "word": "Back",
+    "start": 37.72,
+    "end": 37.84
+  },
+  {
+    "word": "in",
+    "start": 37.84,
+    "end": 37.98
+  },
+  {
+    "word": "2013,",
+    "start": 37.98,
+    "end": 38.5
+  },
+  {
+    "word": "GTA",
+    "start": 38.94,
+    "end": 39.14
+  },
+  {
+    "word": "5",
+    "start": 39.14,
+    "end": 39.58
+  },
+  {
+    "word": "made",
+    "start": 39.58,
+    "end": 39.82
+  },
+  {
+    "word": "about",
+    "start": 39.82,
+    "end": 40.04
+  },
+  {
+    "word": "800",
+    "start": 40.04,
+    "end": 40.54
+  },
+  {
+    "word": "million",
+    "start": 40.54,
+    "end": 41.02
+  },
+  {
+    "word": "within",
+    "start": 41.02,
+    "end": 41.3
+  },
+  {
+    "word": "the",
+    "start": 41.3,
+    "end": 41.5
+  },
+  {
+    "word": "first",
+    "start": 41.5,
+    "end": 41.72
+  },
+  {
+    "word": "20",
+    "start": 41.72,
+    "end": 42.04
+  },
+  {
+    "word": "hours,",
+    "start": 42.04,
+    "end": 42.4
+  },
+  {
+    "word": "that",
+    "start": 42.54,
+    "end": 42.62
+  },
+  {
+    "word": "was",
+    "start": 42.62,
+    "end": 42.78
+  },
+  {
+    "word": "literally",
+    "start": 42.78,
+    "end": 43.16
+  },
+  {
+    "word": "the",
+    "start": 43.16,
+    "end": 43.38
+  },
+  {
+    "word": "largest",
+    "start": 43.38,
+    "end": 43.72
+  },
+  {
+    "word": "launch",
+    "start": 43.72,
+    "end": 44.02
+  },
+  {
+    "word": "ever",
+    "start": 44.02,
+    "end": 44.38
+  },
+  {
+    "word": "during",
+    "start": 44.38,
+    "end": 44.6
+  },
+  {
+    "word": "that",
+    "start": 44.6,
+    "end": 44.78
+  },
+  {
+    "word": "time.",
+    "start": 44.78,
+    "end": 45.02
+  },
+  {
+    "word": "So",
+    "start": 45.18,
+    "end": 45.28
+  },
+  {
+    "word": "just",
+    "start": 45.28,
+    "end": 45.44
+  },
+  {
+    "word": "imagine",
+    "start": 45.44,
+    "end": 45.66
+  },
+  {
+    "word": "GTA",
+    "start": 45.66,
+    "end": 46.02
+  },
+  {
+    "word": "6.",
+    "start": 46.02,
+    "end": 46.42
+  },
+  {
+    "word": "Now",
+    "start": 46.84,
+    "end": 46.94
+  },
+  {
+    "word": "fast",
+    "start": 46.94,
+    "end": 47.14
+  },
+  {
+    "word": "forward",
+    "start": 47.14,
+    "end": 47.36
+  },
+  {
+    "word": "today,",
+    "start": 47.36,
+    "end": 47.68
+  },
+  {
+    "word": "most",
+    "start": 47.84,
+    "end": 47.96
+  },
+  {
+    "word": "analysts",
+    "start": 47.96,
+    "end": 48.26
+  },
+  {
+    "word": "expect",
+    "start": 48.26,
+    "end": 48.66
+  },
+  {
+    "word": "25",
+    "start": 48.66,
+    "end": 49.06
+  },
+  {
+    "word": "million",
+    "start": 49.06,
+    "end": 49.54
+  },
+  {
+    "word": "copies",
+    "start": 49.54,
+    "end": 49.88
+  },
+  {
+    "word": "on",
+    "start": 49.88,
+    "end": 50.1
+  },
+  {
+    "word": "day",
+    "start": 50.1,
+    "end": 50.3
+  },
+  {
+    "word": "one,",
+    "start": 50.3,
+    "end": 50.54
+  },
+  {
+    "word": "with",
+    "start": 50.68,
+    "end": 50.78
+  },
+  {
+    "word": "a",
+    "start": 50.78,
+    "end": 50.88
+  },
+  {
+    "word": "base",
+    "start": 50.88,
+    "end": 51.06
+  },
+  {
+    "word": "price",
+    "start": 51.06,
+    "end": 51.26
+  },
+  {
+    "word": "of",
+    "start": 51.26,
+    "end": 51.42
+  },
+  {
+    "word": "80",
+    "start": 51.42,
+    "end": 51.56
+  },
+  {
+    "word": "reported,",
+    "start": 51.56,
+    "end": 51.92
+  },
+  {
+    "word": "that's",
+    "start": 52.18,
+    "end": 52.36
+  },
+  {
+    "word": "practically",
+    "start": 52.36,
+    "end": 52.74
+  },
+  {
+    "word": "a",
+    "start": 52.74,
+    "end": 52.98
+  },
+  {
+    "word": "billion",
+    "start": 52.98,
+    "end": 53.38
+  },
+  {
+    "word": "dollars",
+    "start": 53.38,
+    "end": 53.78
+  },
+  {
+    "word": "in",
+    "start": 53.78,
+    "end": 54.0
+  },
+  {
+    "word": "just",
+    "start": 54.0,
+    "end": 54.16
+  },
+  {
+    "word": "a",
+    "start": 54.16,
+    "end": 54.32
+  },
+  {
+    "word": "single",
+    "start": 54.32,
+    "end": 54.5
+  },
+  {
+    "word": "day.",
+    "start": 54.5,
+    "end": 54.76
+  },
+  {
+    "word": "But",
+    "start": 54.76,
+    "end": 55.18
+  },
+  {
+    "word": "bear",
+    "start": 55.18,
+    "end": 55.38
+  },
+  {
+    "word": "in",
+    "start": 55.38,
+    "end": 55.48
+  },
+  {
+    "word": "mind,",
+    "start": 55.48,
+    "end": 55.66
+  },
+  {
+    "word": "these",
+    "start": 55.78,
+    "end": 55.88
+  },
+  {
+    "word": "are",
+    "start": 55.88,
+    "end": 56.02
+  },
+  {
+    "word": "just",
+    "start": 56.02,
+    "end": 56.16
+  },
+  {
+    "word": "analyst",
+    "start": 56.16,
+    "end": 56.46
+  },
+  {
+    "word": "models.",
+    "start": 56.46,
+    "end": 56.86
+  },
+  {
+    "word": "Rockstar",
+    "start": 57.04,
+    "end": 57.36
+  },
+  {
+    "word": "is",
+    "start": 57.36,
+    "end": 57.54
+  },
+  {
+    "word": "yet",
+    "start": 57.54,
+    "end": 57.7
+  },
+  {
+    "word": "to",
+    "start": 57.7,
+    "end": 57.82
+  },
+  {
+    "word": "publish",
+    "start": 57.82,
+    "end": 58.08
+  },
+  {
+    "word": "anything",
+    "start": 58.08,
+    "end": 58.64
+  },
+  {
+    "word": "in",
+    "start": 58.64,
+    "end": 59.04
+  },
+  {
+    "word": "regards",
+    "start": 59.04,
+    "end": 59.3
+  },
+  {
+    "word": "to",
+    "start": 59.3,
+    "end": 59.58
+  },
+  {
+    "word": "that.",
+    "start": 59.58,
+    "end": 59.78
+  },
+  {
+    "word": "Here's",
+    "start": 60.02,
+    "end": 60.24
+  },
+  {
+    "word": "what",
+    "start": 60.24,
+    "end": 60.36
+  },
+  {
+    "word": "I",
+    "start": 60.36,
+    "end": 60.46
+  },
+  {
+    "word": "think",
+    "start": 60.46,
+    "end": 60.58
+  },
+  {
+    "word": "will",
+    "start": 60.58,
+    "end": 60.72
+  },
+  {
+    "word": "happen",
+    "start": 60.72,
+    "end": 60.98
+  },
+  {
+    "word": "on",
+    "start": 60.98,
+    "end": 61.16
+  },
+  {
+    "word": "November",
+    "start": 61.16,
+    "end": 61.46
+  },
+  {
+    "word": "19th.",
+    "start": 61.46,
+    "end": 62.28
+  },
+  {
+    "word": "The",
+    "start": 62.28,
+    "end": 62.36
+  },
+  {
+    "word": "internet",
+    "start": 62.36,
+    "end": 62.64
+  },
+  {
+    "word": "will",
+    "start": 62.64,
+    "end": 62.8
+  },
+  {
+    "word": "experience",
+    "start": 62.8,
+    "end": 63.1
+  },
+  {
+    "word": "server",
+    "start": 63.1,
+    "end": 63.58
+  },
+  {
+    "word": "overload",
+    "start": 63.58,
+    "end": 64.1
+  },
+  {
+    "word": "and",
+    "start": 64.1,
+    "end": 64.34
+  },
+  {
+    "word": "algorithm",
+    "start": 64.34,
+    "end": 64.8
+  },
+  {
+    "word": "takeover,",
+    "start": 64.8,
+    "end": 65.48
+  },
+  {
+    "word": "so",
+    "start": 65.62,
+    "end": 65.74
+  },
+  {
+    "word": "practically",
+    "start": 65.74,
+    "end": 66.14
+  },
+  {
+    "word": "every",
+    "start": 66.14,
+    "end": 66.66
+  },
+  {
+    "word": "swipe",
+    "start": 66.66,
+    "end": 67.04
+  },
+  {
+    "word": "will",
+    "start": 67.04,
+    "end": 67.4
+  },
+  {
+    "word": "be",
+    "start": 67.4,
+    "end": 67.62
+  },
+  {
+    "word": "GTA.",
+    "start": 67.62,
+    "end": 68.14
+  },
+  {
+    "word": "Launch",
+    "start": 68.56,
+    "end": 68.82
+  },
+  {
+    "word": "day",
+    "start": 68.82,
+    "end": 68.98
+  },
+  {
+    "word": "will",
+    "start": 68.98,
+    "end": 69.12
+  },
+  {
+    "word": "most",
+    "start": 69.12,
+    "end": 69.3
+  },
+  {
+    "word": "certainly",
+    "start": 69.3,
+    "end": 69.58
+  },
+  {
+    "word": "be",
+    "start": 69.58,
+    "end": 69.78
+  },
+  {
+    "word": "messy.",
+    "start": 69.78,
+    "end": 70.08
+  },
+  {
+    "word": "My",
+    "start": 70.28,
+    "end": 70.38
+  },
+  {
+    "word": "video",
+    "start": 70.38,
+    "end": 70.6
+  },
+  {
+    "word": "is",
+    "start": 70.6,
+    "end": 70.76
+  },
+  {
+    "word": "just",
+    "start": 70.76,
+    "end": 70.88
+  },
+  {
+    "word": "the",
+    "start": 70.88,
+    "end": 71.02
+  },
+  {
+    "word": "start.",
+    "start": 71.02,
+    "end": 71.2
+  },
+  {
+    "word": "Secondly,",
+    "start": 71.48,
+    "end": 71.82
+  },
+  {
+    "word": "a",
+    "start": 72.0,
+    "end": 72.04
+  },
+  {
+    "word": "lot",
+    "start": 72.04,
+    "end": 72.18
+  },
+  {
+    "word": "of",
+    "start": 72.18,
+    "end": 72.28
+  },
+  {
+    "word": "publishers",
+    "start": 72.28,
+    "end": 72.56
+  },
+  {
+    "word": "will",
+    "start": 72.56,
+    "end": 72.84
+  },
+  {
+    "word": "dip",
+    "start": 72.84,
+    "end": 73.0
+  },
+  {
+    "word": "because",
+    "start": 73.0,
+    "end": 73.24
+  },
+  {
+    "word": "none",
+    "start": 73.24,
+    "end": 73.48
+  },
+  {
+    "word": "of",
+    "start": 73.48,
+    "end": 73.6
+  },
+  {
+    "word": "them",
+    "start": 73.6,
+    "end": 73.72
+  },
+  {
+    "word": "will",
+    "start": 73.72,
+    "end": 73.88
+  },
+  {
+    "word": "risk",
+    "start": 73.88,
+    "end": 74.18
+  },
+  {
+    "word": "releasing",
+    "start": 74.18,
+    "end": 74.54
+  },
+  {
+    "word": "anything",
+    "start": 74.54,
+    "end": 74.78
+  },
+  {
+    "word": "near",
+    "start": 74.78,
+    "end": 75.06
+  },
+  {
+    "word": "this.",
+    "start": 75.06,
+    "end": 75.3
+  },
+  {
+    "word": "For",
+    "start": 75.4,
+    "end": 75.52
+  },
+  {
+    "word": "a",
+    "start": 75.52,
+    "end": 75.62
+  },
+  {
+    "word": "few",
+    "start": 75.62,
+    "end": 75.78
+  },
+  {
+    "word": "weeks,",
+    "start": 75.78,
+    "end": 76.04
+  },
+  {
+    "word": "gaming",
+    "start": 76.2,
+    "end": 76.4
+  },
+  {
+    "word": "is",
+    "start": 76.4,
+    "end": 76.6
+  },
+  {
+    "word": "basically",
+    "start": 76.6,
+    "end": 76.98
+  },
+  {
+    "word": "just",
+    "start": 76.98,
+    "end": 77.18
+  },
+  {
+    "word": "GTA",
+    "start": 77.18,
+    "end": 77.62
+  },
+  {
+    "word": "right",
+    "start": 77.62,
+    "end": 77.9
+  },
+  {
+    "word": "across",
+    "start": 77.9,
+    "end": 78.1
+  },
+  {
+    "word": "the",
+    "start": 78.1,
+    "end": 78.32
+  },
+  {
+    "word": "board.",
+    "start": 78.32,
+    "end": 78.56
+  },
+  {
+    "word": "But",
+    "start": 78.7,
+    "end": 78.84
+  },
+  {
+    "word": "there's",
+    "start": 78.84,
+    "end": 79.08
+  },
+  {
+    "word": "a",
+    "start": 79.08,
+    "end": 79.18
+  },
+  {
+    "word": "catch",
+    "start": 79.18,
+    "end": 79.42
+  },
+  {
+    "word": "people",
+    "start": 79.42,
+    "end": 79.74
+  },
+  {
+    "word": "tend",
+    "start": 79.74,
+    "end": 80.08
+  },
+  {
+    "word": "to",
+    "start": 80.08,
+    "end": 80.28
+  },
+  {
+    "word": "avoid.",
+    "start": 80.28,
+    "end": 80.66
+  },
+  {
+    "word": "Whenever",
+    "start": 80.66,
+    "end": 81.1
+  },
+  {
+    "word": "expectations",
+    "start": 81.1,
+    "end": 81.72
+  },
+  {
+    "word": "are",
+    "start": 81.72,
+    "end": 82.1
+  },
+  {
+    "word": "this",
+    "start": 82.1,
+    "end": 82.26
+  },
+  {
+    "word": "high,",
+    "start": 82.26,
+    "end": 82.56
+  },
+  {
+    "word": "even",
+    "start": 82.74,
+    "end": 82.94
+  },
+  {
+    "word": "a",
+    "start": 82.94,
+    "end": 83.08
+  },
+  {
+    "word": "well",
+    "start": 83.08,
+    "end": 83.28
+  },
+  {
+    "word": "put",
+    "start": 83.28,
+    "end": 83.5
+  },
+  {
+    "word": "together",
+    "start": 83.5,
+    "end": 83.74
+  },
+  {
+    "word": "game",
+    "start": 83.74,
+    "end": 84.04
+  },
+  {
+    "word": "can",
+    "start": 84.04,
+    "end": 84.2
+  },
+  {
+    "word": "get",
+    "start": 84.2,
+    "end": 84.36
+  },
+  {
+    "word": "called",
+    "start": 84.36,
+    "end": 84.64
+  },
+  {
+    "word": "a",
+    "start": 84.64,
+    "end": 84.78
+  },
+  {
+    "word": "let",
+    "start": 84.78,
+    "end": 85.02
+  },
+  {
+    "word": "down",
+    "start": 85.02,
+    "end": 85.34
+  },
+  {
+    "word": "by",
+    "start": 85.34,
+    "end": 85.62
+  },
+  {
+    "word": "a",
+    "start": 85.62,
+    "end": 85.7
+  },
+  {
+    "word": "good",
+    "start": 85.7,
+    "end": 85.88
+  },
+  {
+    "word": "amount",
+    "start": 85.88,
+    "end": 86.06
+  },
+  {
+    "word": "of",
+    "start": 86.06,
+    "end": 86.16
+  },
+  {
+    "word": "people.",
+    "start": 86.16,
+    "end": 86.42
+  },
+  {
+    "word": "I",
+    "start": 86.7,
+    "end": 86.8
+  },
+  {
+    "word": "mean",
+    "start": 86.8,
+    "end": 86.92
+  },
+  {
+    "word": "to",
+    "start": 86.92,
+    "end": 87.06
+  },
+  {
+    "word": "be",
+    "start": 87.06,
+    "end": 87.18
+  },
+  {
+    "word": "fair,",
+    "start": 87.18,
+    "end": 87.5
+  },
+  {
+    "word": "we're",
+    "start": 87.64,
+    "end": 87.8
+  },
+  {
+    "word": "inherently",
+    "start": 87.8,
+    "end": 88.16
+  },
+  {
+    "word": "like",
+    "start": 88.16,
+    "end": 88.54
+  },
+  {
+    "word": "this",
+    "start": 88.54,
+    "end": 88.74
+  },
+  {
+    "word": "at",
+    "start": 88.74,
+    "end": 88.86
+  },
+  {
+    "word": "our",
+    "start": 88.86,
+    "end": 88.98
+  },
+  {
+    "word": "core.",
+    "start": 88.98,
+    "end": 89.18
+  },
+  {
+    "word": "It",
+    "start": 89.46,
+    "end": 89.56
+  },
+  {
+    "word": "can't",
+    "start": 89.56,
+    "end": 89.82
+  },
+  {
+    "word": "be",
+    "start": 89.82,
+    "end": 89.9
+  },
+  {
+    "word": "helped.",
+    "start": 89.9,
+    "end": 90.14
+  },
+  {
+    "word": "Plus,",
+    "start": 90.44,
+    "end": 90.66
+  },
+  {
+    "word": "it",
+    "start": 90.92,
+    "end": 91.02
+  },
+  {
+    "word": "launches",
+    "start": 91.02,
+    "end": 91.3
+  },
+  {
+    "word": "on",
+    "start": 91.3,
+    "end": 91.5
+  },
+  {
+    "word": "PS5",
+    "start": 91.5,
+    "end": 92.04
+  },
+  {
+    "word": "and",
+    "start": 92.04,
+    "end": 92.18
+  },
+  {
+    "word": "Xbox",
+    "start": 92.18,
+    "end": 92.44
+  },
+  {
+    "word": "Series",
+    "start": 92.44,
+    "end": 92.92
+  },
+  {
+    "word": "XRS",
+    "start": 92.92,
+    "end": 93.48
+  },
+  {
+    "word": "only,",
+    "start": 93.48,
+    "end": 93.92
+  },
+  {
+    "word": "with",
+    "start": 94.04,
+    "end": 94.14
+  },
+  {
+    "word": "no",
+    "start": 94.14,
+    "end": 94.32
+  },
+  {
+    "word": "PC",
+    "start": 94.32,
+    "end": 94.58
+  },
+  {
+    "word": "version",
+    "start": 94.58,
+    "end": 94.92
+  },
+  {
+    "word": "announced",
+    "start": 94.92,
+    "end": 95.22
+  },
+  {
+    "word": "yet.",
+    "start": 95.22,
+    "end": 95.48
+  },
+  {
+    "word": "Most",
+    "start": 95.68,
+    "end": 95.86
+  },
+  {
+    "word": "will",
+    "start": 95.86,
+    "end": 96.0
+  },
+  {
+    "word": "be",
+    "start": 96.0,
+    "end": 96.1
+  },
+  {
+    "word": "on",
+    "start": 96.1,
+    "end": 96.2
+  },
+  {
+    "word": "the",
+    "start": 96.2,
+    "end": 96.28
+  },
+  {
+    "word": "sidelines",
+    "start": 96.28,
+    "end": 96.72
+  },
+  {
+    "word": "watching",
+    "start": 96.72,
+    "end": 96.98
+  },
+  {
+    "word": "YouTubers",
+    "start": 96.98,
+    "end": 97.46
+  },
+  {
+    "word": "gameplay",
+    "start": 97.46,
+    "end": 97.92
+  },
+  {
+    "word": "just",
+    "start": 97.92,
+    "end": 98.22
+  },
+  {
+    "word": "to",
+    "start": 98.22,
+    "end": 98.36
+  },
+  {
+    "word": "criticize",
+    "start": 98.36,
+    "end": 98.68
+  },
+  {
+    "word": "the",
+    "start": 98.68,
+    "end": 98.9
+  },
+  {
+    "word": "game.",
+    "start": 98.9,
+    "end": 99.12
+  },
+  {
+    "word": "Based",
+    "start": 99.26,
+    "end": 99.44
+  },
+  {
+    "word": "on",
+    "start": 99.44,
+    "end": 99.64
+  },
+  {
+    "word": "the",
+    "start": 99.64,
+    "end": 99.74
+  },
+  {
+    "word": "numbers,",
+    "start": 99.74,
+    "end": 100.0
+  },
+  {
+    "word": "this",
+    "start": 100.18,
+    "end": 100.28
+  },
+  {
+    "word": "game",
+    "start": 100.28,
+    "end": 100.48
+  },
+  {
+    "word": "has",
+    "start": 100.48,
+    "end": 100.64
+  },
+  {
+    "word": "the",
+    "start": 100.64,
+    "end": 100.78
+  },
+  {
+    "word": "potential",
+    "start": 100.78,
+    "end": 101.16
+  },
+  {
+    "word": "to",
+    "start": 101.16,
+    "end": 101.4
+  },
+  {
+    "word": "be",
+    "start": 101.4,
+    "end": 101.52
+  },
+  {
+    "word": "the",
+    "start": 101.52,
+    "end": 101.62
+  },
+  {
+    "word": "biggest",
+    "start": 101.62,
+    "end": 101.92
+  },
+  {
+    "word": "launch",
+    "start": 101.92,
+    "end": 102.26
+  },
+  {
+    "word": "in",
+    "start": 102.26,
+    "end": 102.42
+  },
+  {
+    "word": "the",
+    "start": 102.42,
+    "end": 102.52
+  },
+  {
+    "word": "entertainment",
+    "start": 102.52,
+    "end": 102.84
+  },
+  {
+    "word": "world.",
+    "start": 102.84,
+    "end": 103.22
+  }
+]
